@@ -47,6 +47,7 @@ class HomePage extends StatelessWidget {
                               color: accentHexColor,
                             ),
                             decoration: InputDecoration(
+                              
                                 border: InputBorder.none,
                                 hintText: 'Height (m)',
                                 hintStyle: TextStyle(
