@@ -1,16 +1,33 @@
-# bmi_calc_app
 
-A new Flutter project.
 
-## Getting Started
+# Body Mass Index Calculator - A Flutter App
+This project consist of a single screen that takes both user's height and weight, then proceeds to calculate their body mass index after pressing the 'caluclate' button. Besides giving you the exact bmi, it will tell you if you are over/under weight or simply normal weight.
 
-This project is a starting point for a Flutter application.
+Android             |  iOS
+:-------------------------:|:-------------------------:
+![](/demo/android_demo.png)  |  ![](/demo/android_demo.png)
 
-A few resources to get you started if this is your first Flutter project:
+## How to Use 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+**Step 1:**
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Download or clone this repo by using the link below:
+
+```
+https://github.com/zubairehman/flutter-boilerplate-project.git
+```
+
+**Step 2:**
+
+Go to project root and execute the following command in console to get the required dependencies: 
+
+```
+flutter pub get 
+```
+**Step 3:**
+
+Open your Android Emulator or iPhone Simulator and run the following command:
+
+```
+flutter run 
+```
