@@ -14,7 +14,7 @@ Android             |  iOS
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/diegoestradaXO/bmi_calculator_app.git
 ```
 
 **Step 2:**
